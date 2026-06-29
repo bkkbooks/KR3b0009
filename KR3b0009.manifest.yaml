@@ -1,0 +1,101 @@
+canonical_identifier: bkk:krp/KR3b0009/v1
+canonical_location: https://kanripo.org/bkk/KR3b0009/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 素書
+  identifiers:
+    krp: KR3b0009
+  tags:
+    tls-dates: dat05000
+    kr-categories: KR3b
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0009.xml
+  edition:
+    short: bkk
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR3b0009_001.yaml, hash: 'sha256:b35fd99c670451ab59de782555c2c206c5c6c11792a779ed54009d826654b5e0'}
+  - {seq: 2, filename: KR3b0009_002.yaml, hash: 'sha256:5475019e0ec730641518227872ad9bc56b4955bf13867552723fa926f9fb7ebd'}
+  - {seq: 3, filename: KR3b0009_003.yaml, hash: 'sha256:a1e381339f2c26fe16b72a7258bf4531301a1cb607bab4189e34e36702341394'}
+  - {seq: 4, filename: KR3b0009_004.yaml, hash: 'sha256:de9509148f88d8175e2aeb7ea8ffd3500bbd1cfceab30611d71420c9ef23602b'}
+  - {seq: 5, filename: KR3b0009_005.yaml, hash: 'sha256:35a17fa11d3ec7cfbcfc1a4e52091bd2c8de61c64c1adbc3cf1102bb530e45e5'}
+  - {seq: 6, filename: KR3b0009_006.yaml, hash: 'sha256:8c2d69a5bc2292647fefa13ca3fcd0dac98eead0bb4dbd8efcd2a31e29ce790d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3b0009_001.markers.yaml, hash: 'sha256:7b0508619cae5e4a4093b13ba2abd8f652bbfbde6336b110f1fe3a911d097190'}
+  - {seq: 2, role: markers, filename: assets/KR3b0009_002.markers.yaml, hash: 'sha256:c9e3d88c9e40695bfb8379679fb11b24c9d3adac0e25dc7af3d7f9926a978017'}
+  - {seq: 3, role: markers, filename: assets/KR3b0009_003.markers.yaml, hash: 'sha256:d4a99a1d4fd2ac03084293dbc49001415b4b929fbdb37d6375ea2e4f583ae549'}
+  - {seq: 4, role: markers, filename: assets/KR3b0009_004.markers.yaml, hash: 'sha256:37f4f1478ea0a357daac6ad96d8b6dd5d206dedbc445cb434139473c9266c8bf'}
+  - {seq: 5, role: markers, filename: assets/KR3b0009_005.markers.yaml, hash: 'sha256:7e6f2edbec467c21471f56792de086ee4cac8a9b7e68f6ba409db83dd0559aba'}
+  - {seq: 6, role: markers, filename: assets/KR3b0009_006.markers.yaml, hash: 'sha256:44b631e893644c4e144872a55e6df0bfbb87c288add9c448c1250e339db74369'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3b0009_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 195
+  label: 原始章第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3b0009_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 102
+  label: 正道章第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3b0009_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 162
+  label: 求人之志章第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3b0009_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 117
+  label: 本德宗道章第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3b0009_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 345
+  label: 遵義章第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3b0009_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 441
+  label: 安禮章第六
+  type: section
+  level: 1
+hash: sha256:d575718d04de9a812a2955c4a0271e017a17c3b48e43fa4be56d8e32c337fd41
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

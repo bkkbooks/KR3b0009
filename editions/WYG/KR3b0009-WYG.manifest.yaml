@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR3b0009/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3b0009/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黃石公素書
+  date: '2015-08-24 23:02:31.276793'
+  source:
+    repository: kanripo
+    path: KR3b0009
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3b0009_000-WYG.yaml, hash: 'sha256:bf0ca918ed97f39dde6c67a73b125176944bf48c611c745f8219a594bc8029b9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3b0009_000-WYG.markers.yaml, hash: 'sha256:5b4d18bff3581ade893edb5db27b7314dc7bb1a44c80ed8cf83e3ec5d0b5d94d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3b0009_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 422
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3b0009_WYG_000-3a
+    span:
+    - body
+    - 422
+    - 1059
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3b0009_WYG_000-5a
+    span:
+    - body
+    - 1059
+    - 6068
+  label: 黄石公素書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3b0009_WYG_000-31a
+    span:
+    - body
+    - 6068
+    - 6285
+  label: 後跋
+  type: section
+  level: 1
+hash: sha256:2cca633c532f4c38389336192f4718e18f3de6cc33fbbf1414b30f5e4b5c66ad

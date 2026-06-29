@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3b0009/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 原始章第一夫道德仁義禮五者一體也道者人之所蹈使萬物不知其所由德者人之所得使萬物各得其所欲仁者人之所親有慈慧惻隱之心以遂其生成義者人之所宜賞善罰惡以立功立事禮者人之所履夙興夜寐以成人倫之序夫欲為人之本不可無一焉賢人君子明於盛衰之道通乎成敗之數審乎治亂之勢達乎去就之理故潛居抱道以待其時若時至而行則能極人臣之位得機而動則能成絶代之功如其不遇沒身而已是以其道足高而名重於後代右第一章言道不可以無始
+  hash: sha256:eb5ff6b9c0f3779f437a758b0f686c6ec6d1548f1df510612012d61739d79d83
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3b0009_CHANT_001-1a.1-h}
+metadata:
+  title: 素書
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0009.xml
+hash: sha256:b35fd99c670451ab59de782555c2c206c5c6c11792a779ed54009d826654b5e0

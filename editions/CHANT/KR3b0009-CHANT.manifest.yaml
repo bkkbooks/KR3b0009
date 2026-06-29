@@ -1,0 +1,94 @@
+canonical_identifier: bkk:krp/KR3b0009/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR3b0009/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 素書
+  identifiers:
+    krp: KR3b0009
+  tags:
+    tls-dates: dat05000
+    kr-categories: KR3b
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0009.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR3b0009_001-CHANT.yaml, hash: 'sha256:2fbe4ce5c4b6b9cbb94a8fcf71eec02cf1760eeb7ea5b3494ca4356a724cc268'}
+  - {seq: 2, filename: KR3b0009_002-CHANT.yaml, hash: 'sha256:1898ac4c55802f49e776c6e6a3fcd598672c4a9f77c07946220de5e9a884e27a'}
+  - {seq: 3, filename: KR3b0009_003-CHANT.yaml, hash: 'sha256:718c1312b04537edacdcc3bea658cfebb8cf3997473793c64f7a01692e72e18d'}
+  - {seq: 4, filename: KR3b0009_004-CHANT.yaml, hash: 'sha256:b5cfeed6af6aff74ee16f222121ab95b3cd97a2542b8bc4f27e84067cff6f95e'}
+  - {seq: 5, filename: KR3b0009_005-CHANT.yaml, hash: 'sha256:89def1edbb8c0014904f5d1f997f55b00bbc495248ae6b059d08742450dd90ef'}
+  - {seq: 6, filename: KR3b0009_006-CHANT.yaml, hash: 'sha256:514d81d0c0b15679265dc6a505990528fb48a97a2223a22db437cd528be13084'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3b0009_001-CHANT.markers.yaml, hash: 'sha256:d4890b7f5b430846b2112f9e595fd03cda4157a127ed25dcf71deb02016365bf'}
+  - {seq: 2, role: markers, filename: assets/KR3b0009_002-CHANT.markers.yaml, hash: 'sha256:1cf1fa61f2ab123717739f477e9b64ad5db93e1e514e8087143d62017de85032'}
+  - {seq: 3, role: markers, filename: assets/KR3b0009_003-CHANT.markers.yaml, hash: 'sha256:e7d3c76399fd55a522a8c033549bad69d5ceef1b07dac854883fb06d1911d3f7'}
+  - {seq: 4, role: markers, filename: assets/KR3b0009_004-CHANT.markers.yaml, hash: 'sha256:17aec6364601a7231a65c5415178fc69ad63b0df3d086ed4b834d1b0019935af'}
+  - {seq: 5, role: markers, filename: assets/KR3b0009_005-CHANT.markers.yaml, hash: 'sha256:841cb0276de3cf45e1cc12ab709df32f5fa3de1df3854eff2818683e347c8a5d'}
+  - {seq: 6, role: markers, filename: assets/KR3b0009_006-CHANT.markers.yaml, hash: 'sha256:e2b84e17aea52c4e8cac50b5d636a95721280427bf01932b62bc1b7be54c6c5b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3b0009_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 195
+  label: 原始章第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3b0009_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 102
+  label: 正道章第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3b0009_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 162
+  label: 求人之志章第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3b0009_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 117
+  label: 本德宗道章第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3b0009_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 345
+  label: 遵義章第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3b0009_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 441
+  label: 安禮章第六
+  type: section
+  level: 1
+hash: sha256:49d9b6ee68874e092dfc766b8e3a9d4c2f5a6bd21cd9df5838d6ef2b2054a45e

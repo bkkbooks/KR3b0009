@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR3b0009/krp/v1
+canonical_location: https://kanripo.org/bkk/KR3b0009/krp/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黃石公素書
+  date: '2015-08-24 23:02:31.276793'
+  source:
+    repository: kanripo
+    path: KR3b0009
+  base_edition: WYG
+  edition:
+    short: krp
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3b0009_000-krp.yaml, hash: 'sha256:5307d281b5979121ec418a2f0885c6834c9e29cb171681b2d96f95e9e10a9502'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3b0009_000-krp.markers.yaml, hash: 'sha256:cee174bf00221c622ff6e6582e366f3bac6d6444daa15b980f6662bce5cfd780'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3b0009_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 422
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3b0009_WYG_000-3a
+    span:
+    - body
+    - 422
+    - 1059
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3b0009_WYG_000-5a
+    span:
+    - body
+    - 1059
+    - 6068
+  label: 黄石公素書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3b0009_WYG_000-31a
+    span:
+    - body
+    - 6068
+    - 6285
+  label: 後跋
+  type: section
+  level: 1
+hash: sha256:8ca913eccc33be80ef841552b054381ec1e4b6f00be92e2527d9abe3ad2d53be
