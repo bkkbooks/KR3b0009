@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 正道章第二德足以懷遠信足以一異義足以得衆才足以鑒古明足以照下此人之俊也行足以為儀表智足以決嫌疑信可以使守約廉可以使分財此人之豪也守職而不廢處義而不回見嫌而不苟免見利而不苟得此人之傑也右第二章言道不可以非正
-  hash: sha256:3cd6a938b2d63702d69fe79279039ea0c983175899532f5acefbee03d02d51a1
+  text: 正道章第二德足以懷遠信足以一異義足以得眾才足以鑒古明足以照下此人之俊也行足以為儀表智足以決嫌疑信可以使守約廉可以使分財此人之豪也守職而不廢處義而不回見嫌而不苟免見利而不苟得此人之傑也右第二章言道不可以非正
+  hash: sha256:7362d2b6cac4bdb62083daa966e9b1e61cd670e25e6e33406c6a48c59b17cd00
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3b0009_CHANT_002-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3b0009.xml
-hash: sha256:5475019e0ec730641518227872ad9bc56b4955bf13867552723fa926f9fb7ebd
+hash: sha256:1898ac4c55802f49e776c6e6a3fcd598672c4a9f77c07946220de5e9a884e27a
