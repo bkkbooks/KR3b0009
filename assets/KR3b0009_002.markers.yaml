@@ -12,6 +12,7 @@ markers:
   - {type: 'tls:seg', offset: 10, content: '', id: KR3b0009_CHANT_002-1a.3}
   - {type: punctuation, offset: 15, content: ，, id: KR3b0009_CHANT_002-bkkpn4}
   - {type: 'tls:seg', offset: 15, content: '', id: KR3b0009_CHANT_002-1a.4}
+  - {type: substitution, offset: 19, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 20, content: ，, id: KR3b0009_CHANT_002-bkkpn5}
   - {type: 'tls:seg', offset: 20, content: '', id: KR3b0009_CHANT_002-1a.5}
   - {type: punctuation, offset: 25, content: ，, id: KR3b0009_CHANT_002-bkkpn6}
@@ -46,4 +47,4 @@ markers:
   - {type: punctuation, offset: 102, content: 。, id: KR3b0009_CHANT_002-bkkpn19}
   - {type: xml-element, offset: 102, content: '', id: KR3b0009_CHANT_002-bkkxmlele4}
   back: []
-hash: sha256:390d53efabe3d69b3e34a889f9c4e4cc5f3856d65a7557b0fb962d772a87cf7e
+hash: sha256:c02b06557fbc1d9c05eea3f7e6e410ec6d1cec38653b1eb2f4ff064dfb68dec8
