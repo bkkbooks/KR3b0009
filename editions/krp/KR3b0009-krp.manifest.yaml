@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3b0009_000-krp.yaml, hash: 'sha256:5307d281b5979121ec418a2f0885c6834c9e29cb171681b2d96f95e9e10a9502'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3b0009_000-krp.markers.yaml, hash: 'sha256:cee174bf00221c622ff6e6582e366f3bac6d6444daa15b980f6662bce5cfd780'}
+  - {seq: 0, role: markers, filename: assets/KR3b0009_000-krp.markers.yaml, hash: 'sha256:aa86764bc42f0900c14e0e74f20dec62ff535017e134d2e7122ff020d4d3227a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,4 @@ table_of_contents:
   label: 後跋
   type: section
   level: 1
-hash: sha256:8ca913eccc33be80ef841552b054381ec1e4b6f00be92e2527d9abe3ad2d53be
+hash: sha256:0608437209eff0bba2b051b27125c9ae1e1804886f191915a457bbf608a9f622
